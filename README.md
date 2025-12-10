@@ -4,9 +4,12 @@
   <img src="https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg" width="100%" />
 </p>
 
-                            # 🌟 Hi 👋, I'm Sushant Kumar  
-          🚀 **Cloud & DevOps Enthusiast | MERN Developer | Automation Lover**  
-          ✨ Crafting Scalable Apps • Building CI/CD Pipelines • Learning Every Day  
+<h1 align="center">🌟 Hi 👋, I'm Sushant Kumar</h1>
+
+<p align="center">
+  🚀 <strong>Cloud & DevOps Enthusiast | MERN Developer | Automation Lover</strong> <br>
+  ✨ Crafting Scalable Apps • Building CI/CD Pipelines • Learning Every Day
+</p>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/f678559d332e791b3c491860bf879c4d160edbf6242b7a25fef8acf2196557a8/68747470733a2f2f692e726564642e69742f627078787171767073346839312e676966" width="100%" />
@@ -66,6 +69,7 @@ My code may fail, but my **DevOps pipelines never stop learning!** 😄
   <a href="https://linkedin.com/in/kr-sushant"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/sushant960kr"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="mailto:sushant960kr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://leetcode.com/u/sushant960kr/"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
 </p>
 
 ---
@@ -78,8 +82,8 @@ My code may fail, but my **DevOps pipelines never stop learning!** 😄
   <img src="https://skillicons.dev/icons?i=js" width="45"/>
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=chef" width="45"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
