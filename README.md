@@ -82,7 +82,6 @@ My code may fail, but my **DevOps pipelines never stop learning!** 😄
   <img src="https://skillicons.dev/icons?i=js" width="45"/>
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <img src="https://skillicons.dev/icons?i=chef" width="45"/>
   <img src="https://skillicons.dev/icons?i=azure" width="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
